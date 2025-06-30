@@ -4,7 +4,7 @@
     "context": ".",
     "dockerfile": "Dockerfile"
   },
-  "user": "agent",
+  "user": "node",
   "install": "",
   "start": "",
   "terminals": []
