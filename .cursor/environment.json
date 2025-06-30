@@ -1,17 +1,11 @@
 {
-  "name": "php 8.2 apache",
+  "name": "claude code",
   "build": {
     "context": ".",
     "dockerfile": "Dockerfile"
   },
   "user": "agent",
-  "install": "echo \"the install script\"",
-  "start": "echo \"the start script\"",
-  "terminals": [
-    {
-      "name": "terminal",
-      "command": "echo \"the terminal\"",
-      "description": "The terminal"
-    }
-  ]
+  "install": "",
+  "start": "",
+  "terminals": []
 }
