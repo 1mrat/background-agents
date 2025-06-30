@@ -1,4 +1,8 @@
 {
+  "name": "php agents",
+  "repositoryDependencies": [
+    "github.com/1mrat/gym-membership-app"
+  ],
   "build": {
     "context": ".",
     "dockerfile": "Dockerfile"
@@ -9,7 +13,8 @@
   "terminals": [
     {
       "name": "terminal",
-      "command": "echo \"the terminal\""
+      "command": "echo \"the terminal\"",
+      "description": "The terminal"
     }
   ]
 }
