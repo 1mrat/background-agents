@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+you can use `claude` command to work with claude code - a terminal based ai agent
+format: 
+
+claude --dangerously-skip-permissions "${prompt}"
