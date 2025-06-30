@@ -1,8 +1,5 @@
 {
-  "name": "php agents",
-  "repositoryDependencies": [
-    "github.com/1mrat/gym-membership-app"
-  ],
+  "name": "php 8.2 apache",
   "build": {
     "context": ".",
     "dockerfile": "Dockerfile"
