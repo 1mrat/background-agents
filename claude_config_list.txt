@@ -1,0 +1,4 @@
+{
+  "allowedTools": [],
+  "hasTrustDialogAccepted": false
+}

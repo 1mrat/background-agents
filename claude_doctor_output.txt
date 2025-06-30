@@ -1,0 +1,14 @@
+
+ Checking installation status…
+[?2004h[2K[1A[2K[1A[2K[G
+ Claude CLI Diagnostic
+ Currently running: npm-global (1.0.35)
+ Path: /usr/local/bin/node
+ Invoked: /usr/local/bin/claude
+ Auto-updates: No
+ Config install method: unknown
+ Config auto-updates: true
+ Update permissions: No (requires sudo)
+ Recommendation: Run '/migrate-installer' to enable auto-updates
+ This migrates to a local installation in ~/.claude/local
+ Press Enter to continue…

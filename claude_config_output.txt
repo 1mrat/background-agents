@@ -1,0 +1,14 @@
+Usage: claude config [options] [command]
+
+Manage configuration (eg. claude config set -g theme dark)
+
+Options:
+  -h, --help                             Display help for command
+
+Commands:
+  get [options] <key>                    Get a config value
+  set [options] <key> <value>            Set a config value
+  remove|rm [options] <key> [values...]  Remove a config value or items from a config array
+  list|ls [options]                      List all config values
+  add [options] <key> <values...>        Add items to a config array (space or comma separated)
+  help [command]                         display help for command
