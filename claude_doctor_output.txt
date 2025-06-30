@@ -12,3 +12,4 @@
  Recommendation: Run '/migrate-installer' to enable auto-updates
  This migrates to a local installation in ~/.claude/local
  Press Enter to continue…
+[?2004l
