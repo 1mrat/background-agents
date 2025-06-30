@@ -1,0 +1,15 @@
+{
+  "build": {
+    "context": ".",
+    "dockerfile": "Dockerfile"
+  },
+  "user": "agent",
+  "install": "echo \"the install script\"",
+  "start": "echo \"the start script\"",
+  "terminals": [
+    {
+      "name": "terminal",
+      "command": "echo \"the terminal\""
+    }
+  ]
+}
